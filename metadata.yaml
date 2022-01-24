@@ -1,0 +1,27 @@
+_repo: La-grande-artere-de-la-Chine-le-Yangtseu_67163
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dautremer, Joseph
+    gutenberg_agent_id: '54139'
+    url: http://www.gutenberg.org/2009/agents/54139
+description: ''
+gutenberg_issued: '2022-01-14'
+identifiers:
+  gutenberg: '67163'
+language: fr
+pgterms:marc904: https://archive.org/details/lagrandeartred00dautuoft
+pgterms:marc905: 20201110112641dautremer
+pgterms:marc906: '1911'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Pierre Lacaze, Gallica and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/Canadian Libraries)
+publication_note: France :E. Guilmoto,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'La grande artère de la Chine: le Yangtseu'
+url: http://www.gutenberg.org/ebooks/67163
