@@ -1,11 +1,16 @@
 _repo: La-grande-artere-de-la-Chine-le-Yangtseu_67163
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67163-h/images/cover.jpg
 creator:
   author:
     agent_name: Dautremer, Joseph
     gutenberg_agent_id: '54139'
     url: http://www.gutenberg.org/2009/agents/54139
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67163#La-grande-artere-de-la-Chine-le-Yangtseu
 gutenberg_issued: '2022-01-14'
 identifiers:
   gutenberg: '67163'
